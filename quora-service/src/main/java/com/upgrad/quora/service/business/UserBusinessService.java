@@ -2,6 +2,7 @@ package com.upgrad.quora.service.business;
 
 import com.upgrad.quora.service.dao.UserDao;
 import com.upgrad.quora.service.entity.UserEntity;
+import com.upgrad.quora.service.exception.SignOutRestrictedException;
 import com.upgrad.quora.service.exception.SignUpRestrictedException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -32,6 +33,9 @@ public class UserBusinessService {
         return adminBusinessService.createUser(userEntity);
     }
 
+    public UserEntity signout(final String authorizationToken) throws SignOutRestrictedException {
 
+        return adminBusinessService.logoutUser(authorizationToken);
+    }
 
 }

@@ -2,729 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47a15d9d-c79e-46a9-bbbf-df38ac55657d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/BestCase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/Dulplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/Duplicates2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/NonZeroFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/PatternPrinting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/PrimeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/RecrusionEx6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/RecrusionEx7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/RecrussionEx.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/RecrussionEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/RecrussionEx3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/RecrussionEx4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/RecrussuionEx5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/Sequence1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/Sequence2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/Sequence3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/out/production/Algorithms/Source.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/BestCase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/Dulplicates.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/Duplicates2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/NonZeroFactorial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/PatternPrinting.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/PrimeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/RecrusionEx6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/RecrusionEx7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/RecrussionEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/RecrussionEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/RecrussionEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/RecrussionEx4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/RecrussuionEx5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/Sequence1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/Sequence2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/Sequence3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Algorithms/src/Source.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/ArrayAssement1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/ArrayAssement2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/ArrayExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/ArrayListEx4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/ArrayListExample3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/ArrayListGenerics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/JavaArrayListEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/LinkedListDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/LinkedListEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/ListIterator1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/ListIteratorExample2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/ListProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/ListiteratorExample1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/META-INF/ArrayModule3.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/OperationsOnArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/PerformanceMeasurement_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/PracticeQ1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/PracticeQ2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/PracticeQ3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/RemoveFromArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/Runner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/Source.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/Student2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/Student3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/Student4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/Student5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/Student6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/Student8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/WithArrayExample2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/out/production/ArrayModule3/WithArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/ArrayAssement1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/ArrayAssement2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/ArrayExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/ArrayListEx4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/ArrayListExample3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/ArrayListGenerics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/JavaArrayListEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/LinkedListDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/LinkedListEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/ListIterator1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/ListIteratorExample2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/ListProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/ListiteratorExample1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/OperationsOnArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/PerformanceMeasurement_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/PracticeQ1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/PracticeQ2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/PracticeQ3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/RemoveFromArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/Runner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/Source.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/WithArrayExample2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ArrayModule3/src/WithArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Course/Courses" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DemoRepo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Execution/HelloExam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Execution/HelloExam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.settings/org.eclipse.jpt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/ImageHoster.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/ImageHosterApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/config/JpaConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/controller/HomeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/controller/ImageController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/controller/UserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/model/Image.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/model/Tag.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/model/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/model/UserProfile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/repository/ImageRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/repository/TagRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/repository/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/service/ImageService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/service/TagService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/java/ImageHoster/service/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/resources/templates/images.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/resources/templates/images/edit.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/resources/templates/images/image.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/resources/templates/images/upload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/resources/templates/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/resources/templates/users/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Final Project/ImageHosterProject-master/ImageHosterProject-master/src/main/resources/templates/users/registration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GitDemo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GitDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GitDemo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GitDemo/GitDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GitDemo/out/production/GitDemo/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../GitDemo/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToWorld/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToWorld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToWorld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToWorld/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToWorld/HelloToWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToWorld/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloToWorld/src/main/java/vishal/HelloToWorldApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld3/HelloWorld3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ImageHoster_stub_1/.idea/ImageHoster_stub_1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVC/HelloWorld.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVC/Page.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVC/Page2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NPTEL/New Text Document.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NPTEL/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NPTEL/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NPTEL/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NPTEL/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NPTEL/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NPTEL/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NPTEL/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Assignment_Interview.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/BinarySearch_Assignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/BubbleSort_Demo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/BuubleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/BuubleSort_Assignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Circle2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/ConstructorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/LinearSearch_Assignment1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Main$Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Main$Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/SolutionA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/SolutionB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/bin/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/Assignment_Interview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/BinarySearch_Assignment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/BubbleSort_Demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/BuubleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/BuubleSort_Assignment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/ConstructorDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/LinearSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/LinearSearch_Assignment1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/Main2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/Main3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/SolutionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/SolutionB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (2)/src/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (3)/Lecture+Notes+-+Algorithm+Analysis.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (3)/Lecture+Notes+-+Classes+&amp;+Objects (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (3)/Lecture+Notes+-+Divide+&amp;+Conquer+Algorithms.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (3)/Lecture+Notes+-+Inheritance+and+Polymorphism.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (3)/Oracle-Certified-Professiona-Java-SE-8-Programmer-Exam-1Z0-809.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder (4)" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/0/7071637567b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/2/b07a132c33ae00191620940aac9454e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/22/5074ea4a50b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/26/d0384b5366b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/27/70e5b6fd05af00191496dfb20672b573" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/2d/7035d84f71ad00191fbdea98a53fd685" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/3/7034135650b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/30/3045c2f5bbad001917bfad59d8c738d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/33/c0151b4168b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/37/b04b987b00af00191496dfb20672b573" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/3a/005fc95330ae00191620940aac9454e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/4/d00c9628bcad001917bfad59d8c738d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/40/b0c029dc02af00191496dfb20672b573" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/41/90dbef094fb000191504c29c51fe9cf1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/4e/b01442e36dad00191fbdea98a53fd685" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/51/708d12d069b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/56/50851dd927b200191a89b8af9fd5529d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/57/b0f9c0be9eb00019177db5a61d7c2ee9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/5c/e0b570b85db100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/5f/d036b0885fb100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/61/c0455b2f6fb00019177db5a61d7c2ee9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/61/f0c868d66ead00191fbdea98a53fd685" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/67/6043bf7e3eae00191620940aac9454e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/70/c08f2c2652b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/72/90bfd28f70b00019177db5a61d7c2ee9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/73/703e332004af00191496dfb20672b573" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/74/209c0a1668b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/83/4081724e5eb100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/8d/c00aeb9e3eae00191620940aac9454e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/a/a0981b123cae00191620940aac9454e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/a0/a0e35ef1f3b000191f64e986daaeb5fe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/b0/602e4fe927b200191a89b8af9fd5529d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/b3/00882e5608af00191496dfb20672b573" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/b7/b04e76805eb100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/ba/b0d354e927b200191a89b8af9fd5529d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/c0/40843fc632ae00191620940aac9454e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/c1/501b51f627b200191a89b8af9fd5529d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/c2/b0ad373532ae00191620940aac9454e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/c9/c05ea19459b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/cf/20d7cc3bffb000191f64e986daaeb5fe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/d0/9091cb175eb100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/d6/00cbeb7a2fae00191620940aac9454e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/d8/e0a0304129b200191a89b8af9fd5529d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/e6/b0e980395fb100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/e7/a0dda0b467b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/ea/e006b3776ead00191fbdea98a53fd685" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/ed/1046269b69b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/f1/1009fedc30ae00191620940aac9454e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/f1/80c5330f3dae00191620940aac9454e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/f1/90fecba5bbad001917bfad59d8c738d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/f8/60e825e569b100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.history/ff/5070652f5eb100191af3fd247f92ba13" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.projects/Course2Oops/.indexes/e4/history.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.projects/Course2Oops/.location" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.projects/Course2Oops/.markers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.projects/Course2Oops/org.eclipse.jdt.core/state.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.root/12.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/Assignment_Interview.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/BinarySearch.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/BubbleSort_Demo2.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/BuubleSort.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/BuubleSort_Assignment.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/ConstructorDemo.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/LinearSearch.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/LinearSearch_Assignment1.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/SolutionA.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/SolutionB.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.core/.launches/Test.launch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/1093976889.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/113615551.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/1983282835.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/2538981335.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/2615530601.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/2847934698.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/2968146114.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/3121266111.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/3257272249.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/3295448264.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/3309991577.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/358096374.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/3699148192.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/3897073071.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/3973277272.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/3991552111.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/442432692.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/538242579.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/994590124.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Course2Oops/2019/7/31/refactorings.history" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Course2Oops/2019/7/31/refactorings.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.10.0.20181127-2120.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../New folder/.metadata/version.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Lecture+Notes+-+Binary+Trees+&amp;+BSTs.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Lecture+Notes+-+Classes+&amp;+Objects.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Lecture+Notes+-+Graphs+&amp;+Graph+Algorithms.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Lecture+Notes+-+Hashtables.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Lecture+Notes+-+Inheritance+and+Polymorphism.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Lecture+Notes+-+Priority+Queues+&amp;+Heaps.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Notes/HARI-KRISHNA-VOLUME-1A-.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Notes/HARI-KRISHNA-VOLUME-2- (1).pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Notes/HARI-KRISHNA-VOLUME-2-.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Notes/Lecture+Notes+-+Classes+&amp;+Objects.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Notes/Mala Gupta - OCA Java SE 8 Programmer I Certification Guide - 2016.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Notes/Oracle-Certified-Professiona-Java-SE-8-Programmer-Exam-1Z0-809.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Notes File/Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OOPS module programs/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectOriented/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectOriented/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectOriented/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectOriented/ObjectOriented.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectOriented/out/production/ObjectOriented/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectOriented/out/production/ObjectOriented/ResearchStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectOriented/out/production/ObjectOriented/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectOriented/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectOriented/src/ResearchStudent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ObjectOriented/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/LibaryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practice/mockito.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project/TechnicalBlogApp-master (1)/TechnicalBlogApp-master/technicalblog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project2/TechnicalBlogApplication-master/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project2/TechnicalBlogApplication-master/.idea/TechnicalBlogApplication-master.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project2/TechnicalBlogApplication-master/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Project2/TechnicalBlogApplication-master/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/src/main/java/vishalproj/ApplicationClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/src/main/java/vishalproj/HelloWorldController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/src/main/java/vishalproj/ServeletClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/src/main/java/webapp/helloworld.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/src/main/resources/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/target/classes/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/target/classes/vishalproj/ApplicationClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/target/classes/vishalproj/HelloWorldController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDemo/target/classes/vishalproj/ServeletClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/QueueProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/Demo_Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/META-INF/QueueProject.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/MyQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/Palindrome_Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/Palindrome_Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/QueueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/Queue_Assignment1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/Queue_Assignment_End.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/Queue_Assignment_Start.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/SiteStats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/SolutionB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/SortQueue_Ascending.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/Source.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/out/production/QueueProject/ToDoList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/Demo_Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/Duplicate_Parenthisis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/MyQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/Palindrome_Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/Palindrome_Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/QueueDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/Queue_Assignment1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/Queue_Assignment_End.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/Queue_Assignment_Start.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/SiteStats.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/SolutionB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/SortQueue_Ascending.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/Source.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QueueProject/src/ToDoList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue_Project2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue_Project2/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue_Project2/Queue_Project2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue_Project2/out/production/Queue_Project2/Movie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue_Project2/out/production/Queue_Project2/Movie_Rating.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue_Project2/src/Movie_Rating.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queue_Project2/src/PartBSolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/queues.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/src/com/upgrad/dsa/queues/bookingsystem/Booking.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/src/com/upgrad/dsa/queues/bookingsystem/BookingAgent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/src/com/upgrad/dsa/queues/bookingsystem/BookingRequest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/src/com/upgrad/dsa/queues/bookingsystem/BookingRequestManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/src/com/upgrad/dsa/queues/bookingsystem/BookingSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Queues/src/com/upgrad/dsa/queues/bookingsystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SampleProject/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SampleProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SampleProject/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SampleProject/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SampleProject/SampleProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SampleProject/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/SearchingModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/ArrayProgram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/Arrays_Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/Assigment1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/Assignment2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/Assignment_Interview.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/Assignment_Interview_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/BubbleSort2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/BuubbleSortAssignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/MergeSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/SolutionA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/SolutionA_LinearSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/out/production/SearchingModule/SolutionB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/ArrayProgram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/Arrays_Demo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/Assigment1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/Assignment2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/Assignment_Interview.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/Assignment_Interview_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/BinarySearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/BubbleSort2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/BuubbleSortAssignment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/LinearSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/MergeSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/QuickSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/SolutionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/SolutionA_LinearSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SearchingModule/src/SolutionB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution/Solution.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Solution/src/SolutionB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SolutionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/StackProject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/DFS/DfsSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/DFS/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/DFS/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/DeleteEvenNoFromStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/EditDistance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Parenthesis1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Parenthesis2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Parenthesis_Stack_Implementation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Parenthesis_Stack_Multiple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/SolutionA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Source.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/StackAssignment10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/StackDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/StackDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/StackDemo3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Stack_Assignment1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Stack_Assignment2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Stack_Assignment3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Stack_Assignment4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Stack_Assignment5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Stack_Assignment6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Stack_Assignment7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/Stack_Assignment8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/debugger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/debugger2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/out/production/StackProject/stack_Assignment9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/DFS/DfsSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/DeleteEvenNoFromStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/EditDistance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Parenthesis1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Parenthesis2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Parenthesis_Stack_Implementation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Parenthesis_Stack_Multiple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/SolutionA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Source.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/StackAssignment10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/StackDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/StackDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/StackDemo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Stack_Assignment1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Stack_Assignment2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Stack_Assignment3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Stack_Assignment4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Stack_Assignment5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Stack_Assignment6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Stack_Assignment7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/Stack_Assignment8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/debugger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/debugger2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../StackProject/src/stack_Assignment9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TechnicalBlogApp-master" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/Tree.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/Assignment/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/Assignment/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/Assignment/Source.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/AssignmentProblem/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/AssignmentProblem/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/AssignmentProblem/Source.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BFSTraversal/BFS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BFSTraversal/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BFSTraversal/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BFSTraversal2/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BFSTraversal2/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BFSTraversal2/Node2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BST_Insert_Node/BstInsert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BST_Insert_Node/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BST_Insert_Node/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BST_Search/BST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BST_Search/DriverClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/BST_Search/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/LCA_BST/BST.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/LCA_BST/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/META-INF/Tree.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/MirrorTree/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/MirrorTree/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/MirrorTree/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/PracticeQuestion1/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/PracticeQuestion1/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/SpiralOrderTraversal/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/SpiralOrderTraversal/SpiralOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/out/production/Tree/SpiralOrderTraversal/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/Assignment/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/Assignment/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/Assignment/Source.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/AssignmentProblem/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/AssignmentProblem/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/AssignmentProblem/Source.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/BFSTraversal/BFS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/BFSTraversal2/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/BFSTraversal2/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/BFSTraversal2/Node2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/BST_Insert_Node/BstInsert.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/BST_Insert_Node/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/BST_Insert_Node/Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/BST_Search/BST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/BST_Search/DriverClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/BST_Search/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/LCA_BST/BST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/LCA_BST/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/MirrorTree/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/PracticeQuestion1/BinaryTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/PracticeQuestion1/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/SpiralOrderTraversal/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/SpiralOrderTraversal/SpiralOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Tree/src/SpiralOrderTraversal/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/src/test/java/com/upgrad/quora/api/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/src/test/java/com/upgrad/quora/api/controller/UserControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerDeleteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerDeleteResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerDetailsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerDetailsResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerEditRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerEditResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerEditResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/AnswerResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/ErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/ErrorResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionDeleteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionDeleteResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionDetailsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionDetailsResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionEditRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionEditRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionEditResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionEditResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/QuestionResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/SigninResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/SigninResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/SignoutResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/SignoutResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/SignupUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/SignupUserRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/SignupUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/SignupUserResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/UserDeleteResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/UserDeleteResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/UserDetailsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/com/upgrad/quora/api/model/UserDetailsResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/io/swagger/api/ApiException.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/io/swagger/api/ApiException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/io/swagger/api/ApiOriginFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/io/swagger/api/ApiOriginFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/io/swagger/api/ApiResponseMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/io/swagger/api/ApiResponseMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/io/swagger/api/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/io/swagger/api/NotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/generated-sources/io/swagger/configuration/SwaggerDocumentationConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/generated-sources/io/swagger/configuration/SwaggerDocumentationConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/quora-api-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/quora-api-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-db/target/quora-db.jar" beforeDir="false" afterPath="$PROJECT_DIR$/quora-db/target/quora-db.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-service/target/quora-service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/target/quora-service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Untitled.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Upgrad-experience'/experience-upgrad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/Back page.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/Bank Statement.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/FirstProgram.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/FirstProgram.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/JavaPrograms/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/JavaPrograms/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/JavaPrograms/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/JavaPrograms/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/JavaPrograms/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/JavaPrograms/JavaPrograms.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/JavaPrograms/out/production/JavaPrograms/helloworld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/JavaPrograms/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/JavaPrograms/src/Source.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/JavaPrograms/src/helloworld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/Lecture+Notes+-+Algorithm+Analysis.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/New Text Document (2).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/New Text Document.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/Numbers.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/OutPutFile.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/OutPutPrime.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/Payslip_Dec 2018.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/Payslip_Feb 2019.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/Payslip_Jan 2019.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/Program.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/Program.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/SD_PPT_IntelliJ_IIIT-B.ppt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/aliceinwonderland.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/front page adhar.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/ideaIC-2018.3.5.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/npp.7.6.4.Installer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/quiz_numbers.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../block chain program/untitled104.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents/ID proof.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents/Invoice.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents/New Text Document.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../documents/barcode.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../excel/TF16400656.xltx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/helloworld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/src/main/java/upgrad/HelloWorldApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/src/main/java/upgrad/HelloWorldServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/target/classes/upgrad/HelloWorldApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld/target/classes/upgrad/HelloWorldServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld2/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld2/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld2/helloworld2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld2/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld2/src/main/java/upgrad/HelloWorldApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../helloworld2/src/main/java/upgrad/HelloWorldController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../local/project1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../photo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-api/src/main/java/com/upgrad/quora/api/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/src/main/java/com/upgrad/quora/api/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-api/target/classes/com/upgrad/quora/api/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/classes/com/upgrad/quora/api/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/business/AdminBusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/business/AdminBusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/business/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/business/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/business/UserBusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/business/UserBusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/business/AdminBusinessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/business/AdminBusinessService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/business/AuthenticationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/business/AuthenticationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/business/UserBusinessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/business/UserBusinessService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/dao/UserDao.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -808,7 +98,7 @@
       <recent name="E:\Trello_quora\quora-api\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserControllerTest.signupWithRepeatedEmail">
+  <component name="RunManager" selected="Spring Boot.QuoraApiApplication">
     <configuration name="AnswerControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="quora-api" />
       <extension name="coverage">
@@ -888,14 +178,14 @@
       <item itemvalue="JUnit.AnswerControllerTest" />
       <item itemvalue="JUnit.UserControllerTest" />
       <item itemvalue="JUnit.UserControllerTest.signupWithRepeatedUserName" />
-      <item itemvalue="Spring Boot.QuoraApiApplication" />
       <item itemvalue="JUnit.UserControllerTest.signupWithRepeatedEmail" />
+      <item itemvalue="Spring Boot.QuoraApiApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.QuoraApiApplication" />
         <item itemvalue="JUnit.UserControllerTest.signupWithRepeatedEmail" />
         <item itemvalue="JUnit.UserControllerTest.signupWithRepeatedUserName" />
-        <item itemvalue="Spring Boot.QuoraApiApplication" />
         <item itemvalue="JUnit.UserControllerTest" />
         <item itemvalue="JUnit.AnswerControllerTest" />
       </list>
@@ -944,66 +234,103 @@
       <workItem from="1578014159476" duration="6724000" />
       <workItem from="1578068900323" duration="2569000" />
       <workItem from="1578094431133" duration="7752000" />
-      <workItem from="1578118919503" duration="3130000" />
+      <workItem from="1578118919503" duration="12082000" />
+      <workItem from="1578154847545" duration="1696000" />
     </task>
+    <task id="LOCAL-00001" summary="UserSignUp endpoints implemented">
+      <created>1578123172088</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578123172088</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UserSignUp endpoints implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="UserSignUp endpoints implemented" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="599" y="290" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1578131681785">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="599" y="290" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1536.864@0.0.1536.864" timestamp="1578131681785" />
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1578120542337">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1578120542337" />
-    <state x="338" y="29" key="CommitChangelistDialog2" timestamp="1578123068807">
+    <state x="338" y="29" key="CommitChangelistDialog2" timestamp="1578123149775">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="338" y="29" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578123068807" />
-    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1578105918870">
+    <state x="338" y="29" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578123149775" />
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1578132690130">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578105918870" />
-    <state width="1493" height="172" key="GridCell.Tab.0.bottom" timestamp="1578122846058">
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578132690130" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1578156615301">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578122846058" />
-    <state width="1493" height="172" key="GridCell.Tab.0.center" timestamp="1578122846058">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578156615301" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1578156615300">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578122846058" />
-    <state width="1493" height="172" key="GridCell.Tab.0.left" timestamp="1578122846058">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578156615300" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1578156615300">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578122846058" />
-    <state width="1493" height="172" key="GridCell.Tab.0.right" timestamp="1578122846058">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578156615300" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1578156615301">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="172" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578122846058" />
-    <state width="1493" height="68" key="GridCell.Tab.1.bottom" timestamp="1578121114712">
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578156615300" />
+    <state width="1493" height="208" key="GridCell.Tab.1.bottom" timestamp="1578156615302">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="68" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578121114712" />
-    <state width="1493" height="68" key="GridCell.Tab.1.center" timestamp="1578121114711">
+    <state width="1493" height="208" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578156615302" />
+    <state width="1493" height="208" key="GridCell.Tab.1.center" timestamp="1578156615302">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="68" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578121114711" />
-    <state width="1493" height="68" key="GridCell.Tab.1.left" timestamp="1578121114711">
+    <state width="1493" height="208" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578156615302" />
+    <state width="1493" height="208" key="GridCell.Tab.1.left" timestamp="1578156615301">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="68" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578121114711" />
-    <state width="1493" height="68" key="GridCell.Tab.1.right" timestamp="1578121114712">
+    <state width="1493" height="208" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578156615301" />
+    <state width="1493" height="208" key="GridCell.Tab.1.right" timestamp="1578156615302">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="68" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578121114712" />
-    <state x="361" y="168" key="Vcs.Push.Dialog.v2" timestamp="1578123127563">
+    <state width="1493" height="208" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578156615302" />
+    <state width="1493" height="242" key="GridCell.Tab.2.bottom" timestamp="1578155490329">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1578123127563" />
+    <state width="1493" height="242" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578155490329" />
+    <state width="1493" height="242" key="GridCell.Tab.2.center" timestamp="1578155490329">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1578155490329" />
+    <state width="1493" height="242" key="GridCell.Tab.2.left" timestamp="1578155490329">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1578155490329" />
+    <state width="1493" height="242" key="GridCell.Tab.2.right" timestamp="1578155490329">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="242" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1578155490329" />
+    <state x="361" y="168" key="Vcs.Push.Dialog.v2" timestamp="1578123289517">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1578123289517" />
     <state x="477" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1578094456470">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="477" y="259" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578094456470" />
+    <state x="329" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578131945393">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="329" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.864@0.0.1536.864" timestamp="1578131945393" />
     <state x="499" y="194" width="538" height="484" key="extract.method.dialog" timestamp="1578119846663">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -1017,11 +344,21 @@
           <line>89</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/quora-api/src/main/java/com/upgrad/quora/api/controller/UserController.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/quora-api/src/main/java/com/upgrad/quora/api/controller/UserController.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="SpringBootApplicationConfigurationType">
-        <watch expression="userEntity" />
+        <watch expression="userEntity" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
