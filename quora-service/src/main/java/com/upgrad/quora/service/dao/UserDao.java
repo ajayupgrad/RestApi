@@ -14,6 +14,9 @@ public class UserDao {
     @PersistenceContext
     private EntityManager entityManager;
 
+
+
+
     /*
         This method will create new user from UserEntity object
         User Entity object from which new user will be created
@@ -51,10 +54,26 @@ public class UserDao {
         }
     }
 
+    /*
+     * This method is added to persist the authData in database
+     *
+     * @param userAuthEntity Contains user information who has signed in and the access token
+     * @return The userAuthEntity that is saved in data base
+     */
+
     public UserAuthEntity createAuthToken(final UserAuthEntity userAuthEntity){
         entityManager.persist(userAuthEntity);
         return userAuthEntity;
     }
+
+    /*
+     * Retrieves the user auth record matched with the access token passed
+     * The access token is the one generated at the time of login
+     *
+     * @param accessToken The Security accessToken generated at the time of Sign in
+     * @return The UserAuthEntity record matched with the accessToken
+     */
+
     public UserAuthEntity getUserAuthToken(final String accessToken) {
         try {
             return entityManager.createNamedQuery("userAuthByAccessToken", UserAuthEntity.class).setParameter("accessToken", accessToken).getSingleResult();
@@ -62,4 +81,16 @@ public class UserDao {
             return null;
         }
     }
+    /*Retrieves the user detail matched with the userId passed
+     * @param userUUID Id of the user
+     * @return matched userID detail
+     */
+    public UserEntity getUserByUuid(final String uuid) {
+        try {
+            return entityManager.createNamedQuery("userByUuid", UserEntity.class).setParameter("uuid", uuid).getSingleResult();
+        } catch (NoResultException nre) {
+            return null;
+        }
+    }
+
 }

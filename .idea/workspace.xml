@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47a15d9d-c79e-46a9-bbbf-df38ac55657d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DUmmy/Quora-master/Trello_quora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DUmmy/Trello_quora-master/Trello_quora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures PDF/proman/proman-db/proman-db.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lectures PDF/proman/proman-service/proman-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New folder/Trello_quora-master/Trello_quora-master/Trello_quora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New folder/Trello_quora-master/Trello_quora-master/quora-api/quora-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New folder/Trello_quora-master/Trello_quora-master/quora-db/quora-db.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New folder/Trello_quora-master/Trello_quora-master/quora-service/quora-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../New folder/Trello_quora-master/Trello_quora-master/quora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/quora-master/quora-master/Trello_quora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/quora-master/quora-master/quora-api/quora-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/quora-master/quora-master/quora-db/quora-db.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/quora-master/quora-master/quora-service/quora-service.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../project/quora-master/quora-master/quora.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../quora_stub/Trello_quora/Trello_quora.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/src/main/java/com/upgrad/quora/api/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/src/main/java/com/upgrad/quora/api/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-api/target/classes/com/upgrad/quora/api/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/target/classes/com/upgrad/quora/api/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/business/UserBusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/business/UserBusinessService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/business/UserBusinessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/business/UserBusinessService.class" afterDir="false" />
-    </list>
+    <list default="true" id="47a15d9d-c79e-46a9-bbbf-df38ac55657d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -248,7 +223,7 @@
       <workItem from="1578094431133" duration="7752000" />
       <workItem from="1578118919503" duration="12082000" />
       <workItem from="1578154847545" duration="1696000" />
-      <workItem from="1578235271274" duration="1036000" />
+      <workItem from="1578235271274" duration="5761000" />
     </task>
     <task id="LOCAL-00001" summary="UserSignUp endpoints implemented">
       <created>1578123172088</created>
@@ -257,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578123172088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" Common Controller endpoint for get user details">
+      <created>1578241045563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578241045566</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,7 +247,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UserSignUp endpoints implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="UserSignUp endpoints implemented" />
+    <MESSAGE value=" Common Controller endpoint for get user details" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Common Controller endpoint for get user details" />
   </component>
   <component name="WindowStateProjectService">
     <state x="599" y="290" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1578131681785">
@@ -276,46 +259,46 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1578120542337" />
-    <state x="338" y="29" key="CommitChangelistDialog2" timestamp="1578123149775">
+    <state x="338" y="29" key="CommitChangelistDialog2" timestamp="1578241039816">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="338" y="29" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578123149775" />
+    <state x="338" y="29" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578241039816" />
     <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1578132690130">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578132690130" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1578156615301">
+    <state width="1493" height="273" key="GridCell.Tab.0.bottom" timestamp="1578240763873">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578156615301" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1578156615300">
+    <state width="1493" height="273" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578240763873" />
+    <state width="1493" height="273" key="GridCell.Tab.0.center" timestamp="1578240763873">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578156615300" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1578156615300">
+    <state width="1493" height="273" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578240763873" />
+    <state width="1493" height="273" key="GridCell.Tab.0.left" timestamp="1578240763873">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578156615300" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1578156615301">
+    <state width="1493" height="273" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578240763873" />
+    <state width="1493" height="273" key="GridCell.Tab.0.right" timestamp="1578240763873">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578156615300" />
-    <state width="1493" height="208" key="GridCell.Tab.1.bottom" timestamp="1578156615302">
+    <state width="1493" height="273" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578240763873" />
+    <state width="1493" height="273" key="GridCell.Tab.1.bottom" timestamp="1578240763874">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578156615302" />
-    <state width="1493" height="208" key="GridCell.Tab.1.center" timestamp="1578156615302">
+    <state width="1493" height="273" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578240763874" />
+    <state width="1493" height="273" key="GridCell.Tab.1.center" timestamp="1578240763873">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578156615302" />
-    <state width="1493" height="208" key="GridCell.Tab.1.left" timestamp="1578156615301">
+    <state width="1493" height="273" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578240763873" />
+    <state width="1493" height="273" key="GridCell.Tab.1.left" timestamp="1578240763873">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578156615301" />
-    <state width="1493" height="208" key="GridCell.Tab.1.right" timestamp="1578156615302">
+    <state width="1493" height="273" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578240763873" />
+    <state width="1493" height="273" key="GridCell.Tab.1.right" timestamp="1578240763874">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578156615302" />
+    <state width="1493" height="273" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578240763874" />
     <state width="1493" height="242" key="GridCell.Tab.2.bottom" timestamp="1578155490329">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -332,10 +315,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="242" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1578155490329" />
-    <state x="361" y="168" key="Vcs.Push.Dialog.v2" timestamp="1578123289517">
+    <state x="361" y="168" key="Vcs.Push.Dialog.v2" timestamp="1578241073108">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1578123289517" />
+    <state x="361" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1578241073108" />
     <state x="477" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1578235281439">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -348,6 +331,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="194" width="538" height="484" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1578119846663" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1578238989645">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578238989645" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

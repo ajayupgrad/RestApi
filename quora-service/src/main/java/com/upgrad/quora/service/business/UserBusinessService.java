@@ -5,9 +5,7 @@ import com.upgrad.quora.service.common.UnexpectedException;
 import com.upgrad.quora.service.dao.UserDao;
 import com.upgrad.quora.service.entity.UserAuthEntity;
 import com.upgrad.quora.service.entity.UserEntity;
-import com.upgrad.quora.service.exception.AuthenticationFailedException;
-import com.upgrad.quora.service.exception.SignOutRestrictedException;
-import com.upgrad.quora.service.exception.SignUpRestrictedException;
+import com.upgrad.quora.service.exception.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Propagation;
@@ -88,10 +86,53 @@ public class UserBusinessService {
 
         }
     }
-
+    /*
+        This is used to sign out user from application
+       If it is expired or invalid, then throws back the exception asking the user to sign in
+      If the user session is active, then pulls the UUID of the user̥
+     *
+     * @param authorization  token for authenticating the user
+     * @return uuid of the user
+     * @throws SignOutRestrictedException if the access token is expired or user never signed in
+     */
     public UserEntity signOut(final String authorizationToken) throws SignOutRestrictedException {
 
         return adminBusinessService.logoutUser(authorizationToken);
     }
+
+    /*
+        This Method is used to get User Details from the database.
+        @param userUuid user id to get details of specific user.
+        @param authorization holds authentication
+        @return the user profile if the conditions are satisfied
+        @throws AuthorizationFailedException If the access token provided by the user does not exist
+        in the database,If the user has signed out
+         @throws UserNotFoundException If the user with uuid does not exist in the database
+     */
+    public UserEntity getUser(final String userUuid, final String authorization) throws AuthorizationFailedException, UserNotFoundException {
+        UserAuthEntity userAuthEntity = userDao.getUserAuthToken(authorization);
+
+        // Validate if user is signed in or not
+        if (userAuthEntity == null) {
+            throw new AuthorizationFailedException("ATHR-001", "User has not signed in");
+        }
+        // Validate if user has signed out
+        if (userAuthEntity.getLogoutAt() != null) {
+            throw new AuthorizationFailedException("ATHR-002", "User is signed out.Sign in first to get user details");
+        }
+
+        // Validate if requested user exist or not
+        UserEntity userEntity = userDao.getUserByUuid(userUuid);
+        if (userEntity == null) {
+            throw new UserNotFoundException("USR-001", "User with entered uuid does not exist");
+        }
+
+        return userEntity;
+
+    }
+
+
+
+
 
 }
