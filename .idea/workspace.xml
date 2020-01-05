@@ -6,6 +6,11 @@
       <change afterPath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/dao/QuestionDao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/entity/QuestionEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-api/src/test/java/com/upgrad/quora/api/controller/AdminControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-api/src/test/java/com/upgrad/quora/api/controller/AdminControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/business/AdminBusinessService.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/business/AdminBusinessService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/src/main/java/com/upgrad/quora/service/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/business/AdminBusinessService.class" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/business/AdminBusinessService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/quora-service/target/classes/com/upgrad/quora/service/dao/UserDao.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/quora-service/target/" />
     <ignored path="$PROJECT_DIR$/quora-api/target/" />
@@ -283,20 +288,8 @@
       <recent name="E:\Trello_quora\quora-api\src\main\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Spring Boot.QuoraApiApplication">
-    <configuration name="AnswerControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AdminControllerTest">
+    <configuration name="AdminControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="quora-api" />
       <extension name="coverage">
         <pattern>
@@ -305,13 +298,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.upgrad.quora.api.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.upgrad.quora.api.controller.AnswerControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.quora.api.controller.AdminControllerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CommonControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="quora-api" />
       <extension name="coverage">
         <pattern>
@@ -320,7 +313,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.upgrad.quora.api.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.upgrad.quora.api.controller.UserControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="com.upgrad.quora.api.controller.CommonControllerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -372,19 +365,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.AnswerControllerTest" />
-      <item itemvalue="JUnit.UserControllerTest" />
       <item itemvalue="JUnit.UserControllerTest.signupWithRepeatedUserName" />
       <item itemvalue="JUnit.UserControllerTest.signupWithRepeatedEmail" />
+      <item itemvalue="JUnit.CommonControllerTest" />
+      <item itemvalue="JUnit.AdminControllerTest" />
       <item itemvalue="Spring Boot.QuoraApiApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AdminControllerTest" />
         <item itemvalue="Spring Boot.QuoraApiApplication" />
+        <item itemvalue="JUnit.CommonControllerTest" />
         <item itemvalue="JUnit.UserControllerTest.signupWithRepeatedEmail" />
         <item itemvalue="JUnit.UserControllerTest.signupWithRepeatedUserName" />
-        <item itemvalue="JUnit.UserControllerTest" />
-        <item itemvalue="JUnit.AnswerControllerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +426,7 @@
       <workItem from="1578094431133" duration="7752000" />
       <workItem from="1578118919503" duration="12082000" />
       <workItem from="1578154847545" duration="1696000" />
-      <workItem from="1578235271274" duration="1036000" />
+      <workItem from="1578235271274" duration="9690000" />
     </task>
     <task id="LOCAL-00001" summary="UserSignUp endpoints implemented">
       <created>1578123172088</created>
@@ -442,7 +435,21 @@
       <option name="project" value="LOCAL" />
       <updated>1578123172088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=" Common Controller endpoint for get user details">
+      <created>1578241045563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578241045566</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" Common Controller endpoint for get user details">
+      <created>1578242227296</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578242227296</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -492,7 +499,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UserSignUp endpoints implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="UserSignUp endpoints implemented" />
+    <MESSAGE value=" Common Controller endpoint for get user details" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Common Controller endpoint for get user details" />
   </component>
   <component name="WindowStateProjectService">
     <state x="599" y="290" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1578131681785">
@@ -503,46 +511,46 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1578120542337" />
-    <state x="338" y="29" key="CommitChangelistDialog2" timestamp="1578123149775">
+    <state x="338" y="29" key="CommitChangelistDialog2" timestamp="1578242225642">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="338" y="29" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578123149775" />
+    <state x="338" y="29" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578242225642" />
     <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1578132690130">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578132690130" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1578156615301">
+    <state width="1493" height="316" key="GridCell.Tab.0.bottom" timestamp="1578245161925">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578156615301" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1578156615300">
+    <state width="1493" height="316" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578245161925" />
+    <state width="1493" height="316" key="GridCell.Tab.0.center" timestamp="1578245161925">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578156615300" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1578156615300">
+    <state width="1493" height="316" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578245161925" />
+    <state width="1493" height="316" key="GridCell.Tab.0.left" timestamp="1578245161925">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578156615300" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1578156615301">
+    <state width="1493" height="316" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578245161925" />
+    <state width="1493" height="316" key="GridCell.Tab.0.right" timestamp="1578245161925">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578156615300" />
-    <state width="1493" height="208" key="GridCell.Tab.1.bottom" timestamp="1578156615302">
+    <state width="1493" height="316" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578245161925" />
+    <state width="1493" height="48" key="GridCell.Tab.1.bottom" timestamp="1578245140838">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578156615302" />
-    <state width="1493" height="208" key="GridCell.Tab.1.center" timestamp="1578156615302">
+    <state width="1493" height="48" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578245140838" />
+    <state width="1493" height="48" key="GridCell.Tab.1.center" timestamp="1578245140838">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578156615302" />
-    <state width="1493" height="208" key="GridCell.Tab.1.left" timestamp="1578156615301">
+    <state width="1493" height="48" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1578245140838" />
+    <state width="1493" height="48" key="GridCell.Tab.1.left" timestamp="1578245140838">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578156615301" />
-    <state width="1493" height="208" key="GridCell.Tab.1.right" timestamp="1578156615302">
+    <state width="1493" height="48" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1578245140838" />
+    <state width="1493" height="48" key="GridCell.Tab.1.right" timestamp="1578245140838">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578156615302" />
+    <state width="1493" height="48" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1578245140838" />
     <state width="1493" height="242" key="GridCell.Tab.2.bottom" timestamp="1578155490329">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -559,10 +567,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="242" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1578155490329" />
-    <state x="361" y="168" key="Vcs.Push.Dialog.v2" timestamp="1578123289517">
+    <state x="361" y="168" key="Vcs.Push.Dialog.v2" timestamp="1578242243489">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1578123289517" />
+    <state x="361" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1578242243489" />
     <state x="477" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1578235281439">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -575,6 +583,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="194" width="538" height="484" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1578119846663" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1578238989645">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578238989645" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
