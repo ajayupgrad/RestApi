@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47a15d9d-c79e-46a9-bbbf-df38ac55657d" name="Default Changelist" comment="Answer Controller endpoints implemented &amp; also Test cases">
+    <list default="true" id="47a15d9d-c79e-46a9-bbbf-df38ac55657d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,7 @@
       <recent name="C:\Users\VISHAL\Desktop\Trello_quora\quora-service\src\main\java\com\upgrad\quora\service\entity" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.QuoraApiApplication">
+  <component name="RunManager" selected="JUnit.All in quora-api">
     <configuration name="AdminControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="quora-api" />
       <extension name="coverage">
@@ -91,6 +91,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All in quora-api" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="quora-api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AnswerControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="quora-api" />
       <extension name="coverage">
@@ -101,21 +109,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.upgrad.quora.api.controller" />
       <option name="MAIN_CLASS_NAME" value="com.upgrad.quora.api.controller.AnswerControllerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CommonControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="quora-api" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.upgrad.quora.api.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.upgrad.quora.api.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.upgrad.quora.api.controller.CommonControllerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,18 +144,18 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.QuoraApiApplication" />
-      <item itemvalue="JUnit.CommonControllerTest" />
       <item itemvalue="JUnit.AdminControllerTest" />
       <item itemvalue="JUnit.QuestionControllerTest" />
       <item itemvalue="JUnit.AnswerControllerTest" />
+      <item itemvalue="JUnit.All in quora-api" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in quora-api" />
         <item itemvalue="Spring Boot.QuoraApiApplication" />
         <item itemvalue="JUnit.AnswerControllerTest" />
         <item itemvalue="JUnit.QuestionControllerTest" />
         <item itemvalue="JUnit.AdminControllerTest" />
-        <item itemvalue="JUnit.CommonControllerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +204,7 @@
       <workItem from="1578094431133" duration="7752000" />
       <workItem from="1578118919503" duration="12082000" />
       <workItem from="1578154847545" duration="1696000" />
-      <workItem from="1578235271274" duration="20639000" />
+      <workItem from="1578235271274" duration="20874000" />
     </task>
     <task id="LOCAL-00001" summary="UserSignUp endpoints implemented">
       <created>1578123172088</created>
@@ -269,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578258124512</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Answer Controller endpoints implemented &amp; also Test cases">
+      <created>1578258796136</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1578258796136</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,30 +293,30 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.864@0.0.1536.864" timestamp="1578120542337" />
-    <state x="338" y="29" key="CommitChangelistDialog2" timestamp="1578258434143">
+    <state x="338" y="29" key="CommitChangelistDialog2" timestamp="1578258794783">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="338" y="29" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578258434143" />
+    <state x="338" y="29" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578258794783" />
     <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1578132690130">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1578132690130" />
-    <state width="1493" height="366" key="GridCell.Tab.0.bottom" timestamp="1578258040648">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1578258951191">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="366" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578258040648" />
-    <state width="1493" height="366" key="GridCell.Tab.0.center" timestamp="1578258040648">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578258951191" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1578258951191">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="366" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578258040648" />
-    <state width="1493" height="366" key="GridCell.Tab.0.left" timestamp="1578258040647">
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578258951191" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1578258951191">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="366" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578258040647" />
-    <state width="1493" height="366" key="GridCell.Tab.0.right" timestamp="1578258040648">
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578258951191" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1578258951191">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="366" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578258040648" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578258951191" />
     <state width="1493" height="366" key="GridCell.Tab.1.bottom" timestamp="1578258040648">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -349,14 +349,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="242" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1578155490329" />
-    <state x="361" y="168" key="Vcs.Push.Dialog.v2" timestamp="1578258371511">
+    <state x="361" y="168" key="Vcs.Push.Dialog.v2" timestamp="1578258869699">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1578258371511" />
+    <state x="361" y="168" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1578258869699" />
     <state x="477" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1578235281439">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="477" y="259" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1578235281439" />
+    <state x="515" y="169" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1578258783354">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="515" y="169" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.864@0.0.1536.864" timestamp="1578258783354" />
     <state x="329" y="171" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578131945393">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
