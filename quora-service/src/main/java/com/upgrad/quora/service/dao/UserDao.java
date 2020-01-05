@@ -93,4 +93,15 @@ public class UserDao {
         }
     }
 
+    /*
+      This method is used to delete a user from db
+
+      @param uuid of User that needed to be deleted from db
+
+     */
+    public void deleteUser(String uuid) {
+        UserEntity userEntity = getUserByUuid(uuid);
+        entityManager.remove(userEntity);
+    }
+
 }
