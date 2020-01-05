@@ -21,7 +21,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.Base64;
 import java.util.UUID;
 
 @RestController
@@ -42,7 +41,7 @@ public class UserController {
      */
 
     @RequestMapping(method = RequestMethod.POST , path = "/user/signup" , consumes = MediaType.APPLICATION_JSON_UTF8_VALUE , produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
-     public ResponseEntity<SignupUserResponse>signup(final SignupUserRequest signupUserRequest) throws SignUpRestrictedException {
+     public ResponseEntity<SignupUserResponse>signUp(final SignupUserRequest signupUserRequest) throws SignUpRestrictedException {
 
         // Creating User Entity Object
         final UserEntity userEntity = new UserEntity();
@@ -62,35 +61,43 @@ public class UserController {
         userEntity.setRole("nonadmin");
 
         // Returning response with created User Entity
-        final UserEntity createdUserEntity = userBusinessService.signup(userEntity);
+        final UserEntity createdUserEntity = userBusinessService.signUp(userEntity);
         SignupUserResponse userResponse = new SignupUserResponse().id(createdUserEntity.getUuid()).status("USER SUCCESSFULLY REGISTERED");
         return new ResponseEntity<SignupUserResponse>(userResponse , HttpStatus.CREATED);
     }
 
+    /**
+     This method is used to sign in a user who has successfully registered
+     If not,throws a error message that the username does not exist or password is wrong
+
+     @param authorization this contains the encoded username and password
+     @return SignIn Response which contains user UUID and message stating sign in successfully or not
+     @throws AuthenticationFailedException will be thrown when the username or password does not match
+     */
+
     @RequestMapping(method = RequestMethod.POST ,path = "/user/signin" ,produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
-    public ResponseEntity<SigninResponse> sign(@RequestHeader("authorization") final String authorization) throws AuthenticationFailedException {
+    public ResponseEntity<SigninResponse> signIn(@RequestHeader("authorization") final String authorization) throws AuthenticationFailedException {
 
-        // Encoding user name password & Decoding after words
-        byte[] decode = Base64.getDecoder().decode(authorization.split("Basic ")[1]);
-        String decodedText = new String(decode);
-        String[] decodedArray = decodedText.split(":");
-
-        //Authentication of user name & password
-        UserAuthEntity userAuthToken = authenticationService.authenticate(decodedArray[0] ,decodedArray[1]);
-        UserEntity user = userAuthToken.getUser();
-
-        // Creating & returning response  message
+        UserAuthEntity userAuthEntity = userBusinessService.signIn(authorization);
+        UserEntity user = userAuthEntity.getUser();
         SigninResponse signinResponse = new SigninResponse().id(user.getUuid()).message("SIGNED IN SUCCESSFULLY");
-        HttpHeaders headers = new HttpHeaders();
-        headers.add("access_token" ,userAuthToken.getAccessToken());
-        return new ResponseEntity<SigninResponse>(signinResponse , headers ,HttpStatus.OK);
+        HttpHeaders httpHeaders = new HttpHeaders();
+        httpHeaders.add("access_token", userAuthEntity.getAccessToken());
+        return new ResponseEntity<SigninResponse>(signinResponse, httpHeaders, HttpStatus.OK);
 
     }
+    /**
+      This method signs out the user from the application if his session is still active.
+      If not, throws an error message stating the user is not logged in before to signout.
 
-    @RequestMapping(method = RequestMethod.POST ,path ="/user/signout" ,produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
-    public ResponseEntity<SignoutResponse>signout(@RequestHeader("authorization") final String authorization) throws SignOutRestrictedException {
+      @param authorization Holds the access token generated at the time of signin and is used for authentication
+      @return UUID of the use̥r and a message stating Sign Out Successful
+      @throws SignOutRestrictedException when the user session is inactive or he never signed in before
+     */
+       @RequestMapping(method = RequestMethod.POST ,path ="/user/signout" ,produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
+    public ResponseEntity<SignoutResponse>signOut(@RequestHeader("authorization") final String authorization) throws SignOutRestrictedException {
         // Sign out user
-        final UserEntity userEntity = userBusinessService.signout(authorization);
+        final UserEntity userEntity = userBusinessService.signOut(authorization);
 
         // Return response
         SignoutResponse signoutResponse = new SignoutResponse().id(userEntity.getUuid())

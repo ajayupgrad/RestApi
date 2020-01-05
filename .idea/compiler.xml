@@ -12,6 +12,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="quora" target="1.8" />
       <module name="Trello_quora" target="1.8" />
     </bytecodeTargetLevel>
   </component>
